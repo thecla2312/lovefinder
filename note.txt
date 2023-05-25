@@ -1,0 +1,14 @@
+git 
+signuep github
+
+git status - thr current update on our repo a b c
+git add - git add index.html , git add . - keep track of files and folders
+git commit - git commit -m "added c", git commit -m "refactored stylesheet"
+git remote add - 
+git branch - main - landing about contact
+git push - 
+git pull -mgit pull 
+git clone - 
+
+configuration
+git 
