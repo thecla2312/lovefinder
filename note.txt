@@ -12,3 +12,10 @@ git clone -
 
 configuration
 git 
+
+
+pushing to an existing repo
+git add .
+git commit -m "added a comment to index"
+git push
+
